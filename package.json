@@ -1,0 +1,33 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "1st Project",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auro-jyoti/Project-1.git"
+  },
+  "author": "Aurojyoti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Auro-jyoti/Project-1/issues"
+  },
+  "homepage": "https://github.com/Auro-jyoti/Project-1#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "phosphor-react": "^1.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.13.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
